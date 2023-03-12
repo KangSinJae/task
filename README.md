@@ -11,11 +11,18 @@
 
 이 아래로 내용 작성
 
-***GIT 기본 명령어***
+## ***GIT 기본 명령어***
 
 명령어  | 내용
 ------------- | -------------
-cd  | 이동
-Content Cell  | Content Cell
-
-
+cd  | 디렉토리 변경
+repository | 기록공간
+working | 작업 공간
+stage | 임시 공간
+branch | 기준 작업 라인
+main | 기본
+commit | 코드 생성
+merge | 다른 브랜치에서 작업한것을 합침
+swtich | 해당 브랜치로 이동
+restore | 파일 복원
+push origin main | 깃허브에 동기화
