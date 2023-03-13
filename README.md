@@ -49,3 +49,5 @@ git push -u origin main | main 브랜치에 push
 git pull main | main 브랜치에 pull
 git clone https://~ | 내 로컬 저장소에 폴더가 없는 경우 폴더를 생성후 복사
 git clone https://~. | 내 로컬 저장소에 이미 폴더가 있는 경우 그 폴더에 복사
+
+## 수정1
